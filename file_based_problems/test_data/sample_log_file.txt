@@ -1,0 +1,10 @@
+20 July 2018 21:35:37 Respawn took 0 seconds execution time 10 seconds processing time 1 seconds
+20 July 2018 21:35:48 Respawn took 0 seconds execution time 9 seconds processing time 2 seconds
+20 July 2018 21:35:59 Respawn took 3 seconds execution time 6 seconds processing time 1 seconds
+20 July 2018 21:36:07 Respawn took 0 seconds execution time 5 seconds processing time 3 seconds
+20 July 2018 21:36:13 Respawn took 0 seconds execution time 4 seconds processing time 2 seconds
+20 July 2018 21:36:15 Respawn took 5 seconds execution time 8 seconds processing time 4 seconds
+20 July 2018 21:36:20 Respawn took 0 seconds execution time 9 seconds processing time 7 seconds
+20 July 2018 21:36:30 Respawn took 0 seconds execution time 3 seconds processing time 1 seconds
+20 July 2018 21:36:34 Respawn took 4 seconds execution time 2 seconds processing time 0 seconds
+20 July 2018 21:36:39 Respawn took 0 seconds execution time 7 seconds processing time 5 seconds
